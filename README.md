@@ -6,6 +6,7 @@ Cara buka di Localhost
 4. Buka http://localhost/klp9_spkc/ 
 
 Program SPK Metode Weighted Product (WP)
+
 Anggota:
 1. Hagi Siraj Sumanta (2011521015)
 2. Ruth Emeralda Raihan (2011522018)
