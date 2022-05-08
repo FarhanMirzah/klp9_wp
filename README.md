@@ -1,6 +1,6 @@
 # Kelompok 9 - SPK C
 Cara buka di Localhost
-1. Clone respositoi nya ke folder C:\xampp\htdocs\ (hasil nya C:\xampp\htdocs\klp9_spkc)
+1. Clone respositori nya ke folder C:\xampp\htdocs\ (hasil nya C:\xampp\htdocs\klp9_spkc)
 2. Jalankan XAMPP
 3. Di XAMPP, pastikan Apache dan MySQL hidup
 4. Buka http://localhost/klp9_spkc/ 
