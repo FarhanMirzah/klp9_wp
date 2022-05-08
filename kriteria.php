@@ -7,6 +7,7 @@
 </head>
 <body>
     <header>
+        <h1 class="title">Aplikasi Weighted Product (WP)</h1>
         <nav id="navigation">
             <ul>
                 <li><a href="home.php">Home</a></li>
