@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <title>Aplikasi WP Kelompok 9 - SPK C</title>
     <meta charset="UTF-8">
     <meta name="description" contents="Kelompok 9 - SPK C">
     <link rel="stylesheet" href="style.css" type="text/css">

@@ -5,6 +5,11 @@ Cara buka di Localhost
 3. Di XAMPP, pastikan Apache dan MySQL hidup
 4. Buka http://localhost/klp9_spkc/ 
 
+Cara push dari VS Code (tidak pakai branch):
+1. Stage All Changes (tanda +)
+2. Commit (tanda ceklis ✓)
+3. Push (tanda titik 3)
+
 Program SPK Metode Weighted Product (WP)
 
 Anggota:
