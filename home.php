@@ -20,6 +20,5 @@
     <div class="page">
         <h2>Selamat Datang</h2>
         <p>Selamat datang di aplikasi SPK menggunakan metode WP.</p>
-        <p>Silahkan pilih menu disamping untuk melakukan pengolahan data.</p>
     </div>
 </html>
