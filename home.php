@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <title>Kelompok 9 - SPK C</title>
     <meta charset="UTF-8">
     <meta name="description" contents="Kelompok 9 - SPK C">
     <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
     <header>
+        <h1 class="title">Aplikasi Weighted Product (WP)</h1>
         <nav id="navigation">
             <ul>
                 <li><a href="home.php">Home</a></li>
